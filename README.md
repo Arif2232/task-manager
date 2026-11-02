@@ -1,6 +1,6 @@
-# TaskFlow — React and Express Task Manager
+# Task Manager
 
-A full-stack todo app built with React, TypeScript, and an Express REST API. Add, edit, and organize tasks with local JSON storage—no database setup required.
+TaskFlow is a full-stack todo app built with React, TypeScript, and an Express REST API. Add, edit, and organize tasks with local JSON storage—no database setup required.
 
 **React · TypeScript · Vite · Tailwind CSS · Express**
 
