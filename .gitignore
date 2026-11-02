@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.log
+backend/data/*.tmp*
+backend/data/test-*.json
+.idea/
+.env
+.env.*
+!.env.example
+backend/data/
+*.pdf
